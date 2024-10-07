@@ -14,7 +14,7 @@ This repository contains a collection of deep learning and computer vision proje
 
 ## Introduction
 
-Deep learning and computer vision are rapidly evolving fields with numerous applications in different domains. This repository includes implementations of popular algorithms, custom models, and experiments conducted using various datasets. Each project is structured to provide a clear understanding of the concepts and practical aspects of deep learning and computer vision.
+Deep learning and computer vision are rapidly evolving fields with numerous applications in different domains. This repository includes implementations of popular algorithms, custom models, and experiments conducted using various datasets. Each project is structured to provide a clear understanding of the concepts and practical aspects of deep learning and computer vision..
 
 ## Project List
 
